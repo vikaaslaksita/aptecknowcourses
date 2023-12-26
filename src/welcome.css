@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 200px;
+  color: rgb(18, 136, 246);
+  margin-left: 30px;
+}
+#username {
+  width: 50%;
+  height: 40px;
+  border: none;
+  border-radius: 24px;
+  background-color: rgb(245, 242, 242);
+  padding-left: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#password {
+  width: 50%;
+  height: 40px;
+  border: none;
+  border-radius: 24px;
+  background-color: rgb(245, 242, 242);
+  padding-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+#login {
+  width: 50%;
+  height: 40px;
+  border: none;
+  border-radius: 24px;
+  background-color: rgb(18, 136, 246);
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: 100px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.left-bar {
+  border-radius: 20px;
+  width: 50%;
+  height: 400px;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+i {
+  position: relative;
+  left: 22px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(18, 136, 246);
+}
+span {
+  color: rgb(18, 136, 246);
+}
+#loginform {
+  display: flex;
+}
+img {
+  width: 80%;
+  height: 100%;
+  margin-left: 20%;  
+  margin-top: 10px;
+}

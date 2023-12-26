@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+#enquire-container{
+    padding: 20px;
+    width: 100%;
+    background-color: rgba(27, 90, 185, 0.639);
+    color: rgba(255, 255, 255, 0.861);
+    
+    margin-left: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#main-container{
+    display: flex;
+    left: 50%;
+    right: 50%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#submit-btn{
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    width: 45%;
+    color: white;
+    background-color: rgb(147, 159, 217);
+    cursor: pointer;   
+    margin-left: 25%;
+    /* margin-top: 10px; */
+    margin-bottom: 7%;
+    margin-top: 20px;
+}
+input{
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    width: 40%;
+    color: rgb(5, 0, 0);
+    margin-left: 25%;  
+    border: none;
+}
+label{
+    margin-left: 25%; 
+    /* margin-top: 35px; */
+}
+span{
+    color: red;
+}
+
+    
+
+
+
