@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aptecknowcourses/static/css/main.2772f0a3.css",
+    "main.js": "/aptecknowcourses/static/js/main.5f122de2.js",
+    "static/media/bgimage.jpg": "/aptecknowcourses/static/media/bgimage.6b858ff209c0959085f5.jpg",
+    "static/media/Appteknowlogo.png": "/aptecknowcourses/static/media/Appteknowlogo.3a1db19a9001ec6e43f9.png",
+    "index.html": "/aptecknowcourses/index.html",
+    "main.2772f0a3.css.map": "/aptecknowcourses/static/css/main.2772f0a3.css.map",
+    "main.5f122de2.js.map": "/aptecknowcourses/static/js/main.5f122de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2772f0a3.css",
+    "static/js/main.5f122de2.js"
+  ]
+}
